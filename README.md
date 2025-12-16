@@ -1,5 +1,5 @@
 # First-project
-My Hi 👋 I'm Nikita
+Hi 👋 I'm Nikita
 
 🌱 Beginner in Web Development  
 🎓 BCA Student  
